@@ -43,6 +43,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabriWar&theme=blue-green" />
  
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabriWar&langs_count=8&theme=blue-green)](https://github.com/GabriWar)
+
+
 <h3> :earth_americas: &nbsp;You can find me on: </h3> 
 
 [![Telegram Gabriel Guerra]( https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GabriWarX)
