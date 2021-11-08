@@ -39,16 +39,15 @@
  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/GabriWar)
 
 
-<a href="https://github.com/GabriWar">
-  <img align="center" img height="195em" src="https://github-readme-stats.vercel.app/api?username=GabriWar&theme=blue-green" />
-</a>
-<a href="https://github.com/GabriWar">
-  <img align="center" img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriWar&langs_count=8&theme=blue-green" />
-</a>
-
-<a href="https://github.com/GabriWar">
-  <img align="center" img height="195em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@GabriWar&theme=blue-green" />
-</a>
+<p href="https://github.com/GabriWar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabriWar&theme=blue-green" width="" height="195"/>
+</p>
+<p href="https://github.com/GabriWar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriWar&langs_count=8&theme=blue-green"width="" height="195" />
+</p>
+<p href="https://github.com/GabriWar">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/wakatime?username=@GabriWar&theme=blue-green"width="" height="195" />
+</p>
 
 
 
