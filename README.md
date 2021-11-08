@@ -40,17 +40,19 @@
 
 
 <a href="https://github.com/GabriWar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabriWar&theme=blue-green" />
+  <img align="center" img height="195em" src="https://github-readme-stats.vercel.app/api?username=GabriWar&theme=blue-green" />
 </a>
 <a href="https://github.com/GabriWar">
   <img align="center" img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriWar&langs_count=8&theme=blue-green" />
 </a>
 
+<a href="https://github.com/GabriWar">
+  <img align="center" img height="195em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@GabriWar&theme=blue-green" />
+</a>
 
 
 
-
-<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@GabriWar&theme=blue-green)](https://github.com/GabriWar)-->
+<!--(https://github.com/GabriWar)-->
 
 
 <h3> :earth_americas: &nbsp;You can find me on:</h3> 
