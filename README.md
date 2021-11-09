@@ -1,11 +1,21 @@
 
 ![](https://komarev.com/ghpvc/?username=GabriWar&color=006bed)
 
+Hy, my name is Gabriel Guerra, im a computer engineering student from Brazil, i have a loong history with linux, programming and android modding, i spend most of my time on my computer tweaking and studying.
+- i really love to:
+ 
+- Code, especially in c++ and python.
+ 
+- Mod Android phones, like rooting, tweaking with roms and etc.
+ 
+- Debug and analyze software.
+ 
 <h3> 🧠 &nbsp;About Me </h3>
 
 - 💭 &nbsp; Learning about assembly and C++.
 - 🎓 &nbsp; Studying computer engineering.
 - 💼 &nbsp; Just investing and doing some coding for $$$.
+- 🌐 &nbsp; My first language was Portuguese but i also speak english and a little bit of Italian
 
 🚀**Skills**
 
@@ -59,5 +69,8 @@
 [![Telegram Gabriel Guerra]( https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GabriWarX)
 [![Discord]( https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/313753423256354816)
 [![Steam]( https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/GabriWarX/)
-<h3>☝️clickable :)</h3>
+<h3>☝️clickable</h3>
 
+
+
+Thanks for visiting my profile :)
