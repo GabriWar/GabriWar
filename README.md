@@ -1,12 +1,13 @@
 
 ![](https://komarev.com/ghpvc/?username=GabriWar&color=006bed)
 
-Hy, my name is Gabriel Guerra, im a computer engineering student from Brazil, i have a loong history with linux, programming and android modding, i spend most of my time on my computer tweaking and studying.
-- i really love to:
+Hy, my name is Gabriel Guerra, im a computer engineering student from Brazil, i have a loong history with linux, programming and android modding, i spend most of my time on my computer coding and studying.
+         
+<h3> ❤️  i really love to: </h3>
  
 - Code, especially in c++ and python.
  
-- Mod Android phones, like rooting, tweaking with roms and etc.
+- Mod Android phones like rooting, tweaking with roms and etc.
  
 - Debug and analyze software.
  
