@@ -5,7 +5,7 @@ Hy, my name is Gabriel Guerra, im a computer engineering student from Brazil, i 
          
 <h3> ❤️  i really love to: </h3>
  
-- Code, especially in c++ and python.
+- Code, especially in c++, python and rust.
  
 - Mod Android phones like rooting, tweaking with roms and etc.
  
@@ -13,7 +13,7 @@ Hy, my name is Gabriel Guerra, im a computer engineering student from Brazil, i 
  
 <h3> 🧠 &nbsp;About Me </h3>
 
-- 💭 &nbsp; Learning about assembly and C++.
+- 💭 &nbsp; Learning about assembly, rust and C++.
 - 🎓 &nbsp; Studying computer engineering.
 - 💼 &nbsp; Just investing and doing some coding for $$$.
 - 🌐 &nbsp; My first language was Portuguese but i also speak english and a little bit of Italian
