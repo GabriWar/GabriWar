@@ -7,7 +7,7 @@ Hy, my name is Gabriel Guerra, im a computer engineering student from Brazil, i 
  
 - Code, especially in c++, python and rust.
  
-- Mod Android phones like rooting, tweaking with roms and etc.
+- Mod Android phones (rooting, creating custom roms and etc.)
  
 - Debug and analyze software.
  
@@ -16,12 +16,13 @@ Hy, my name is Gabriel Guerra, im a computer engineering student from Brazil, i 
 - 💭 &nbsp; Learning about assembly, rust and C++.
 - 🎓 &nbsp; Studying computer engineering.
 - 💼 &nbsp; Just investing and doing some coding for $$$.
-- 🌐 &nbsp; My first language was Portuguese but i also speak english and a little bit of Italian
+- 🌐 &nbsp; My first language was Portuguese (brazilian) but i also speak english and a little bit of Italian
 
 🚀**Skills**
 
 
   [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/GabriWar)
+  [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/GabriWar)
   [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/GabriWar)
   [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/GabriWar)
   [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/GabriWar)
@@ -38,6 +39,8 @@ Hy, my name is Gabriel Guerra, im a computer engineering student from Brazil, i 
  - x64dbg🐞
  
  - APK tool🤖
+ 
+ - JadX 🔧
  
  - Unreal engine 🔥
  
