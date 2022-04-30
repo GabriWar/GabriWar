@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=GabriWar&color=006bed)
 
-Hy, my name is Gabriel Guerra, im a computer engineering student from Brazil, i have a loong history with linux, programming and android modding, i spend most of my time on my computer coding and studying.
+Hi, my name is Gabriel Guerra, im a computer engineering student from Brazil, i have a loong history with linux, programming and android modding, i spend most of my time on my computer coding and studying.
          
 <h3> ❤️  i really love to: </h3>
  
