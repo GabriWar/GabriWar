@@ -59,9 +59,7 @@ Hi, my name is Gabriel Duarte Guerra, im a computer engineering student from Bra
 <p href="https://github.com/GabriWar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriWar&langs_count=8&theme=blue-green"width="" height="195" />
 </p>
-<p href="https://github.com/GabriWar">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/wakatime?username=@GabriWar&theme=blue-green"width="" height="195" />
-</p>
+
 
 
 
