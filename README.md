@@ -69,8 +69,9 @@ Hi, my name is Gabriel Duarte Guerra, im a computer science student from Brazil,
 
 
 <h3> :earth_americas: &nbsp;You can find me on:</h3> 
+[![Linkedin Gabriel Guerra]( https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GabriWarX)
 
-[![Telegram Gabriel Guerra]( https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GabriWarX)
+[![Telegram Gabriel Guerra](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-guerra-28457919b/)
 [![Discord]( https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/313753423256354816)
 [![Steam]( https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/GabriWarX/)
 <h3>☝️clickable</h3>
