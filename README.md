@@ -81,7 +81,7 @@ Hi, my name is Gabriel Duarte Guerra, im a computer science student from Brazil,
 <!--(https://github.com/GabriWar)-->
 
 
-<h3> :earth_americas: &nbsp;You can find me on:</h3> 
+<h3> 🌎 &nbsp;You can find me on:</h3> 
 
 
 [![Linkedin Gabriel Guerra]( https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GabriWarX)
