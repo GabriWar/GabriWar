@@ -68,9 +68,6 @@ Hi, my name is Gabriel Duarte Guerra, im a computer science student from Brazil,
  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/GabriWar)
 
 
-<p href="https://github.com/GabriWar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriWar&langs_count=8&theme=blue-green"width="999999" height="520" />
-</p>
 
 
 
@@ -86,6 +83,10 @@ Hi, my name is Gabriel Duarte Guerra, im a computer science student from Brazil,
 [![Discord]( https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/313753423256354816)
 [![Steam]( https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/GabriWarX/)
 <h3>☝️clickable</h3>
+
+<p href="https://github.com/GabriWar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriWar&langs_count=8&theme=blue-green"width="999999" height="520" />
+</p>
 
 
 
