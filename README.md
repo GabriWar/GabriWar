@@ -69,10 +69,10 @@ Hi, my name is Gabriel Duarte Guerra, im a computer science student from Brazil,
 
 
 <p href="https://github.com/GabriWar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabriWar&theme=blue-green" width="" height="195"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabriWar&theme=blue-green" width="999999" height="195"/>
 </p>
 <p href="https://github.com/GabriWar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriWar&langs_count=8&theme=blue-green"width="" height="195" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriWar&langs_count=8&theme=blue-green"width="999999" height="520" />
 </p>
 
 
