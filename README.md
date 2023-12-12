@@ -18,7 +18,7 @@ Hi, my name is Gabriel Duarte Guerra, im a computer science student from Brazil,
 - 💼 &nbsp; Just investing and doing some coding for $$$.
 - 🌐 &nbsp; My first language was Portuguese (brazilian) but i also speak english and a little bit of Italian
 
-🚀**Skills**
+🚀 **Skills**
 
 🌐 **Front/BackEnd**
   
@@ -45,7 +45,7 @@ Hi, my name is Gabriel Duarte Guerra, im a computer science student from Brazil,
   [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/GabriWar)
   [![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/GabriWar)
 
-🛠️**Tools**
+🛠️ **Tools**
 
  - Visual Studio Code💜
   
