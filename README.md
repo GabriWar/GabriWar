@@ -20,7 +20,7 @@ Hi, my name is Gabriel Duarte Guerra, im a computer science student from Brazil,
 
 🚀**Skills**
 
--**Front/BackEnd**
+🌐 **Front/BackEnd**
   
   [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/GabriWar)
   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/GabriWar)
@@ -31,7 +31,7 @@ Hi, my name is Gabriel Duarte Guerra, im a computer science student from Brazil,
   [![Typecript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/GabriWar)
   [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://github.com/GabriWar)
 
--**Dev**
+💻 **Dev**
 
   [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/GabriWar)
   [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/GabriWar)
@@ -40,7 +40,7 @@ Hi, my name is Gabriel Duarte Guerra, im a computer science student from Brazil,
   [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/GabriWar)
   [![DotNet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/GabriWar)
   
-  -**Linux**
+  🐧 **Linux**
   
   [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/GabriWar)
   [![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/GabriWar)
@@ -61,7 +61,7 @@ Hi, my name is Gabriel Duarte Guerra, im a computer science student from Brazil,
  
  - Photoshop 📷
 
- 💻**OS**
+ 💻 **OS**
  
  [![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://github.com/GabriWar)
  [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/GabriWar)
