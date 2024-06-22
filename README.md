@@ -60,14 +60,14 @@ Hi, my name is Gabriel Duarte Guerra, im a computer science student from Brazil,
 [![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)](https://www.torproject.org/)
 
 🛠️ **Tools**
-
+- [NeoVim🖊️](https://neovim.io/)
 - [Visual Studio Code💜](https://code.visualstudio.com/)
 - [IDA🗺️](https://www.hex-rays.com/)
 - [x64dbg🐞](https://x64dbg.com/)
 - [APK tool🤖](https://ibotpeaches.github.io/Apktool/)
-- [JadX 🔧](https://www.varaneckas.com/jadx/)
-- [Unreal engine 🔥](https://www.unrealengine.com/)
-- [Photoshop 📷](https://www.adobe.com/products/photoshop.html)
+- [JadX🔧](https://www.varaneckas.com/jadx/)
+- [Unreal engine🔥](https://www.unrealengine.com/)
+- [Photoshop📷](https://www.adobe.com/products/photoshop.html)
 
 💻 **OS**
 
