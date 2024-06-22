@@ -88,7 +88,7 @@ Hi, my name is Gabriel Duarte Guerra, im a computer science student from Brazil,
 [![Steam]( https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/GabriWarX/)
 <h3>☝️clickable</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriwar&hide=shell)
 
 
 
