@@ -1,4 +1,5 @@
 
+
 ![](https://komarev.com/ghpvc/?username=GabriWar&color=006bed)
 
 Hi, my name is Gabriel Duarte Guerra, im a computer science student from Brazil, i have a loong history with linux, programming and android modding, i spend most of my time on my computer coding and studying.
@@ -88,7 +89,9 @@ Hi, my name is Gabriel Duarte Guerra, im a computer science student from Brazil,
 [![Steam]( https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/GabriWarX/)
 <h3>☝️clickable</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriwar&hide=shell)
+<p href="https://github.com/GabriWar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriWar&langs_count=8&exclude_repo=hyprdots&theme=blue-green"width="999999" height="520" />
+</p>
 
 
 
