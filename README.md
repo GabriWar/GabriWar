@@ -1,6 +1,6 @@
 
 ![](https://komarev.com/ghpvc/?username=GabriWar&color=006bed)
-
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?gabriwar" frameborder="0"></iframe>
 Hi, my name is Gabriel Duarte Guerra, im a computer science student from Brazil, i have a loong history with linux, programming and android modding, i spend most of my time on my computer coding and studying.
          
 <h3> ❤️  i really love to: </h3>
