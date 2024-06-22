@@ -90,7 +90,7 @@ Hi, my name is Gabriel Duarte Guerra, im a computer science student from Brazil,
 <h3>☝️clickable</h3>
 
 <p href="https://github.com/GabriWar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriWar&langs_count=8&exclude_repo=hyprdots&theme=blue-green"width="999999" height="520" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriWar&langs_count=10&exclude_repo=hyprdot&theme=transparent"width="999999" height="520" />
 </p>
 
 
