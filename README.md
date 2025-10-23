@@ -1,12 +1,13 @@
 
+---
 
 ![](https://komarev.com/ghpvc/?username=GabriWar&color=006bed)
 
 Hi, my name is Gabriel Duarte Guerra, im a computer science student from Brazil, i have a loong history with linux, programming and android modding, i spend most of my time on my computer coding and studying.
-         
+
 <h3> ❤️  i really love to: </h3>
  
-- Code, especially in c++, python, rust, go and Javascript.
+- Code, especially in C++, Python, Rust, Go and JavaScript.
  
 - Mod Android phones (rooting, creating custom roms and etc.)
  
@@ -14,7 +15,7 @@ Hi, my name is Gabriel Duarte Guerra, im a computer science student from Brazil,
  
 <h3> 🧠 &nbsp;About Me </h3>
 
-- 💭 &nbsp; Learning about assembly, rust and C++.
+- 💭 &nbsp; Learning about Assembly, Rust, C++, Go and advanced programming concepts.
 - 🎓 &nbsp; Studying computer engineering.
 - 💼 &nbsp; Just investing and doing some coding for $$$.
 - 🌐 &nbsp; My first language was Portuguese (brazilian) but i also speak english and a little bit of Italian
@@ -33,20 +34,25 @@ Hi, my name is Gabriel Duarte Guerra, im a computer science student from Brazil,
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.io/)
 [![Bun](https://img.shields.io/badge/Bun-46483d?style=for-the-badge&logo=Bun&logoColor=white)](https://bun.sh/)
 
-
-
 💻 **Dev**
 
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 [![Assembly](https://img.shields.io/badge/assembly-007bcd?style=for-the-badge&logo=AssemblyScript&logoColor=white)](https://docs.oracle.com/cd/E19253-01/817-5477/817-5477.pdf)
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.learn-c.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![DotNet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/reference/en/)
 [![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 🐧 **Linux**
 
@@ -57,17 +63,23 @@ Hi, my name is Gabriel Duarte Guerra, im a computer science student from Brazil,
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
 [![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
 [![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)](https://www.torproject.org/)
 
-🛠️ **Tools**
+🛠️ **Tools & IDEs**
+
 - [NeoVim🖊️](https://neovim.io/)
 - [Visual Studio Code💜](https://code.visualstudio.com/)
+- [IntelliJ IDEA☕](https://www.jetbrains.com/idea/)
+- [CLion🔧](https://www.jetbrains.com/clion/)
 - [IDA🗺️](https://www.hex-rays.com/)
 - [x64dbg🐞](https://x64dbg.com/)
 - [APK tool🤖](https://ibotpeaches.github.io/Apktool/)
 - [JadX🔧](https://www.varaneckas.com/jadx/)
 - [Unreal engine🔥](https://www.unrealengine.com/)
 - [Photoshop📷](https://www.adobe.com/products/photoshop.html)
+- [GDB🐛](https://www.gnu.org/software/gdb/)
+- [Valgrind🔍](https://valgrind.org/)
 
 💻 **OS**
 
@@ -75,24 +87,30 @@ Hi, my name is Gabriel Duarte Guerra, im a computer science student from Brazil,
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/)
 
-
-
 <!--(https://github.com/GabriWar)-->
 
+<h3> 🌎 &nbsp;You can find me on:</h3>
 
-<h3> 🌎 &nbsp;You can find me on:</h3> 
-
-
-[![Linkedin Gabriel Guerra]( https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GabriWarX)
+[![Linkedin Gabriel Guerra](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GabriWarX)
 [![Telegram Gabriel Guerra](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-guerra-28457919b/)
-[![Discord]( https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/313753423256354816)
-[![Steam]( https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/GabriWarX/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/313753423256354816)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/GabriWarX/)
+
 <h3>☝️clickable</h3>
 
 <p href="https://github.com/GabriWar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriWar&langs_count=10&exclude_repo=hyprdot&theme=transparent"width="999999" height="520" />
 </p>
 
+## 📊 Estatísticas do GitHub
 
+<p href="https://github.com/GabriWar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriWar&langs_count=10&exclude_repo=hyprdot&theme=transparent" width="999999" height="520" />
+</p>
 
-Thanks for visiting my profile :)
+<p href="https://github.com/GabriWar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabriWar&show_icons=true&theme=transparent&hide_border=true" width="999999" height="200" />
+</p>
+
+---
+
