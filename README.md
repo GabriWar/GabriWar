@@ -6,7 +6,7 @@ Hi, my name is Gabriel Duarte Guerra, im a computer science student from Brazil,
          
 <h3> ❤️  i really love to: </h3>
  
-- Code, especially in c++, python and rust.
+- Code, especially in c++, python, rust, go and Javascript.
  
 - Mod Android phones (rooting, creating custom roms and etc.)
  
