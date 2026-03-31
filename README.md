@@ -1,3 +1,4 @@
+----
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GabriWar&color=006bed" alt="Views" />
 </p>
@@ -93,14 +94,6 @@ Hi, my name is Gabriel Duarte Guerra. I'm a Computer Science student from Brazil
 
 <h3>☝️ Clickable </h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriWar&langs_count=10&exclude_repo=hyprdot&theme=transparent" width="400" />
-</p>
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabriWar&show_icons=true&theme=transparent&hide_border=true" width="400" />
-</p>
 
 ---
