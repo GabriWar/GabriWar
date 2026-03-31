@@ -1,30 +1,27 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GabriWar&color=006bed" alt="Views" />
+</p>
 
----
+Hi, my name is Gabriel Duarte Guerra. I'm a Computer Science student from Brazil. I have a long history with Linux, programming, and Android modding. I spend most of my time on my computer coding and studying.
 
-![](https://komarev.com/ghpvc/?username=GabriWar&color=006bed)
-
-Hi, my name is Gabriel Duarte Guerra, im a computer science student from Brazil, i have a loong history with linux, programming and android modding, i spend most of my time on my computer coding and studying.
-
-<h3> ❤️  i really love to: </h3>
+<h3> ❤️  I really love to: </h3>
  
-- Code, especially in C++, Python, Rust, Go and JavaScript.
- 
-- Mod Android phones (rooting, creating custom roms and etc.)
- 
-- Debug and analyze software.
+- Code, especially in C++, Python, Rust, Go, and JavaScript.
+- Mod Android phones (rooting, creating custom ROMs, etc.).
+- Debug, analyze, and reverse engineer software.
  
 <h3> 🧠 &nbsp;About Me </h3>
 
-- 💭 &nbsp; Learning about Assembly, Rust, C++, Go and advanced programming concepts.
-- 🎓 &nbsp; Studying computer engineering.
+- 💭 &nbsp; Learning about Assembly, Rust, C++, Go, and advanced programming concepts.
+- 🎓 &nbsp; Studying Computer Engineering.
 - 💼 &nbsp; Just investing and doing some coding for $$$.
-- 🌐 &nbsp; My first language was Portuguese (brazilian) but i also speak english and a little bit of Italian
+- 🌐 &nbsp; My first language is Portuguese (Brazilian), but I also speak English and a little bit of Italian.
 
 🚀 **Skills**
 
 🌐 **Front/BackEnd**
 
-[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
@@ -68,18 +65,18 @@ Hi, my name is Gabriel Duarte Guerra, im a computer science student from Brazil,
 
 🛠️ **Tools & IDEs**
 
-- [NeoVim🖊️](https://neovim.io/)
-- [Visual Studio Code💜](https://code.visualstudio.com/)
-- [IntelliJ IDEA☕](https://www.jetbrains.com/idea/)
-- [CLion🔧](https://www.jetbrains.com/clion/)
-- [IDA🗺️](https://www.hex-rays.com/)
-- [x64dbg🐞](https://x64dbg.com/)
-- [APK tool🤖](https://ibotpeaches.github.io/Apktool/)
-- [JadX🔧](https://www.varaneckas.com/jadx/)
-- [Unreal engine🔥](https://www.unrealengine.com/)
-- [Photoshop📷](https://www.adobe.com/products/photoshop.html)
-- [GDB🐛](https://www.gnu.org/software/gdb/)
-- [Valgrind🔍](https://valgrind.org/)
+- [NeoVim 🖊️](https://neovim.io/)
+- [Visual Studio Code 💜](https://code.visualstudio.com/)
+- [IntelliJ IDEA ☕](https://www.jetbrains.com/idea/)
+- [CLion 🔧](https://www.jetbrains.com/clion/)
+- [IDA 🗺️](https://www.hex-rays.com/)
+- [x64dbg 🐞](https://x64dbg.com/)
+- [APK tool 🤖](https://ibotpeaches.github.io/Apktool/)
+- [JadX 🔧](https://github.com/skylot/jadx)
+- [Unreal Engine 🔥](https://www.unrealengine.com/)
+- [Photoshop 📷](https://www.adobe.com/products/photoshop.html)
+- [GDB 🐛](https://www.gnu.org/software/gdb/)
+- [Valgrind 🔍](https://valgrind.org/)
 
 💻 **OS**
 
@@ -87,30 +84,23 @@ Hi, my name is Gabriel Duarte Guerra, im a computer science student from Brazil,
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/)
 
-<!--(https://github.com/GabriWar)-->
-
 <h3> 🌎 &nbsp;You can find me on:</h3>
 
-[![Linkedin Gabriel Guerra](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GabriWarX)
-[![Telegram Gabriel Guerra](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-guerra-28457919b/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GabriWarX)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-guerra-28457919b/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/313753423256354816)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/GabriWarX/)
 
-<h3>☝️clickable</h3>
+<h3>☝️ Clickable </h3>
 
-<p href="https://github.com/GabriWar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriWar&langs_count=10&exclude_repo=hyprdot&theme=transparent"width="999999" height="520" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriWar&langs_count=10&exclude_repo=hyprdot&theme=transparent" width="400" />
 </p>
 
 ## 📊 Estatísticas do GitHub
 
-<p href="https://github.com/GabriWar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriWar&langs_count=10&exclude_repo=hyprdot&theme=transparent" width="999999" height="520" />
-</p>
-
-<p href="https://github.com/GabriWar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabriWar&show_icons=true&theme=transparent&hide_border=true" width="999999" height="200" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabriWar&show_icons=true&theme=transparent&hide_border=true" width="400" />
 </p>
 
 ---
-
