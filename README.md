@@ -1,10 +1,14 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GabriWar&color=006bed" alt="Views" />
+  <img src="https://img.shields.io/badge/CVEs-5%2B_published-critical" alt="5+ CVEs" />
+  <img src="https://img.shields.io/badge/Nokia-Hall_of_Fame-124191?logo=nokia&logoColor=white" alt="Nokia Hall of Fame" />
+  <img src="https://img.shields.io/badge/Pipefy-Hall_of_Fame-3B5BDB" alt="Pipefy Hall of Fame" />
 </p>
 
 # Hi, I'm Gabriel Duarte Guerra
 
 **Full Stack & Security Engineer** — Brazil. I build production web platforms by day and tear things apart at the firmware / kernel level by night. Computer Science student, long-time Linux user, and contracted vulnerability researcher with 5+ CVEs published.
+
 <h3> 🧠 &nbsp;What I actually do </h3>
 
 - **Full stack engineering** — shipping production web platforms, real-time systems, and enterprise integrations across modern JS and backend stacks.
