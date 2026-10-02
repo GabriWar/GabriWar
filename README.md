@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GabriWar&color=006bed" alt="Views" />
   <img src="https://img.shields.io/badge/CVEs-5%2B_published-critical" alt="5+ CVEs" />
-  <img src="https://img.shields.io/badge/Nokia-Hall_of_Fame-124191?logo=nokia&logoColor=white" alt="Nokia Hall of Fame" />
-  <img src="https://img.shields.io/badge/Pipefy-Hall_of_Fame-3B5BDB" alt="Pipefy Hall of Fame" />
+  <a href="https://www.linkedin.com/posts/gabriel-guerra-28457919b_fui-curioso-demais-mais-uma-vez-https-activity-7468448897477206017-7lYB"><img src="https://img.shields.io/badge/Nokia-Hall_of_Fame-124191?logo=nokia&logoColor=white" alt="Nokia Hall of Fame" /></a>
+  <a href="https://www.linkedin.com/posts/gabriel-guerra-28457919b_bugbounty-appsec-responsibledisclosure-activity-7463646467954749440-vI-y"><img src="https://img.shields.io/badge/Pipefy-Hall_of_Fame-3B5BDB" alt="Pipefy Hall of Fame" /></a>
 </p>
 
 # Hi, I'm Gabriel Duarte Guerra
